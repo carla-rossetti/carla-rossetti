@@ -1,4 +1,4 @@
-### Hola! Soy Carla 👋
+### Hola, soy Carla 👋
 
 <!--
 **carla-rossetti/carla-rossetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
