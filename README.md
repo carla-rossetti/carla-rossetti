@@ -23,7 +23,8 @@
 </div>
 
 <div>
-  <img src="">
+  <img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white">
   <img src="">
   <img src="">
   <img src="">
