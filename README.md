@@ -4,6 +4,6 @@
 </div><br>
 
 <div>
-  <img src="https://img.shields.io/github/github followers/carla-rossetti">
+  <img src="https://img.shields.io/github/githubfollowers/carla-rossetti">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCjQlqSAT9UuGxoyH-y3Se4g">
 </div>
