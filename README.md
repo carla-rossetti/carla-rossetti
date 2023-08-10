@@ -1,1 +1,1 @@
-<h1 style="text-aling: center">Hola, soy Carla 👋</h1>
+<h1>Hola, soy Carla 👋</h1>
