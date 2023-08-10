@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white">
   <img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white">
   <img src="https://img.shields.io/badge/Google-4285F4.svg?style=for-the-badge&logo=Google&logoColor=white">
-</div>
+</div><br>
 
 <div>
   <img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white">
@@ -28,7 +28,7 @@
   <img src="">
   <img src="">
   <img src="">
-</div>
+</div><br>
 
 <div>
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
