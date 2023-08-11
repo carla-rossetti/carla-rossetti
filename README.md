@@ -56,19 +56,17 @@
     <td width="50%">
       <h3 align="center">Encriptador</h3>
       <div align="center">
-        <a href="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io" target="_blank">
-          <img src="" width="400">
-        </a>
+        <img src="https://github.com/carla-rossetti/carla-rossetti/blob/main/e1.jpg" width="400">
         <p>
-          <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          <a href="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-b23272?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="https://youtu.be/vJapzH_46a8" target="_blank">
-            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+          <a href="https://youtu.be/djTCbZEh9hc" target="_blank">
+            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=b23272">
           </a>
         </p>
-        <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún 
-           conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+        <p>El encriptador convierte texto para una versión de texto encriptado y convierte texto encriptado para su versión de texto original. Además tiene una función speaker 
+           que convierte texto a voz.</p>
       </div>
     </td>
     <td width="50%"><br>
