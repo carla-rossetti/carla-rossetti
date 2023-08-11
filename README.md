@@ -67,7 +67,8 @@
             <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=a87bc7">
           </a>
         </p>
-        <p>El encriptador convierte texto para una versión de texto encriptado y convierte texto encriptado para su versión de texto original. Además tiene una función speaker que convierte texto a voz.</p>
+        <p>El encriptador convierte texto para una versión de texto encriptado y convierte texto encriptado para su versión de texto original. Además tiene una función speaker 
+          que convierte texto a voz.</p>
       </div>
     </td>
     <td width="50%">
