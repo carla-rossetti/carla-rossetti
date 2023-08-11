@@ -9,16 +9,17 @@
 </div><br>
 
 <div>
-  <h2>Acerca de mí</h2>
+  <h2>Acerca de mí</h2><br>
   <p>
-    ⇒ 💻 It Essentials Hardware & Software
-    ⇒ 🤖 Programadora Arduino
-    ⇒ 📱 Programadora Aplicaciones Móviles (App Inventor & Android)
-    ⇒ 👩🏽‍💻 Programadora Full Stack
-    ⇒ 👩🏽‍💻 Programadora Back-end (Actualmente cursando en Alura Latam y Argentina Programa 4.0)
-    ⇒ 🗿 Impresión 3D
+    ⇒ 💻 It Essentials Hardware & Software<br>
+    ⇒ 🤖 Programadora Arduino<br>
+    ⇒ 📱 Programadora Aplicaciones Móviles (App Inventor & Android)<br>
+    ⇒ 👩🏽‍💻 Programadora Full Stack<br>
+    ⇒ 👩🏽‍💻 Programadora Back-end (Actualmente cursando en Alura Latam y Argentina Programa 4.0)<br>
+    ⇒ 🗿 Impresión 3D<br>
+    ⇒ Made in ![image](https://github.com/carla-rossetti/carla-rossetti/assets/106676139/a53324d8-56ce-4ed3-b3e3-cc2d731f613a)<br>
   </p>
-</div>
+</div><br>
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
