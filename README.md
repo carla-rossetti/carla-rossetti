@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/followers/carla-rossetti?label=Github%20Followers">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCjQlqSAT9UuGxoyH-y3Se4g">
   <a href="">
-    <img align="right" src="https://github.com/carla-rossetti/carla-rossetti/blob/main/arg.png">
+    <img align="right" src="">
   </a>
 </div><br>
 
