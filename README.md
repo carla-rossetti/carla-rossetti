@@ -12,19 +12,19 @@
 </div><br>
 
 <div>
-  <h2>Acerca de mí</h2>
+  <h2>Acerca de mí:</h2>
   <p>
-    ⇒ 💻 It Essentials Hardware & Software<br>
-    ⇒ 🤖 Programadora Arduino<br>
-    ⇒ 📱 Programadora Aplicaciones Móviles (App Inventor & Android)<br>
-    ⇒ 👩🏽‍💻 Programadora Full Stack<br>
-    ⇒ 👩🏽‍💻 Programadora Back-end (Actualmente cursando en Alura Latam y Argentina Programa 4.0)<br>
-    ⇒ 🗿 Impresión 3D
+    ⇒ 💻 It Essentials Hardware & Software.<br>
+    ⇒ 🤖 Programadora Arduino.<br>
+    ⇒ 📱 Programadora Aplicaciones Móviles (App Inventor & Android).<br>
+    ⇒ 👩🏽‍💻 Programadora Full Stack.<br>
+    ⇒ 👩🏽‍💻 Programadora Back-end (Actualmente cursando en Alura Latam y Argentina Programa 4.0).<br>
+    ⇒ 🗿 Impresión 3D.
   </p>
 </div>
 
 <div>
-  <h2>Stack Tecnológico</h2>
+  <h2>Stack tecnológico:</h2>
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white">
