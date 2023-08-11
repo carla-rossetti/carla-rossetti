@@ -19,7 +19,7 @@
     ⇒ 📱 Programadora Aplicaciones Móviles (App Inventor & Android)<br>
     ⇒ 👩🏽‍💻 Programadora Full Stack<br>
     ⇒ 👩🏽‍💻 Programadora Back-end (Actualmente cursando en Alura Latam y Argentina Programa 4.0)<br>
-    ⇒ 🗿 Impresión 3D<br>
+    ⇒ 🗿 Impresión 3D
   </p>
 </div><br>
 
