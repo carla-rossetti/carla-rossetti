@@ -56,7 +56,7 @@
     <td width="50%">
       <h3 align="center">Encriptador de texto</h3>
       <div align="center">
-        <img src="https://github.com/carla-rossetti/carla-rossetti/blob/main/e1.jpg" width="400" height="200">
+        <img src="https://github.com/carla-rossetti/carla-rossetti/blob/main/e1.jpg" width="400" height="220">
         <p>
           <a href="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-7f4ca5?style=for-the-badge&logo=github&logoColor=black">
