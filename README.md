@@ -52,12 +52,18 @@
   <img src="https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white">
 </div><br>
 
-<div>
-  <h2>Mis proyectos:</h2>
-  <table>
+<h2>Mis proyectos:</h2>
+<table>
+  <div>
     <li><h4>Encriptador</h4></li>
     <li><img src="https://github.com/carla-rossetti/carla-rossetti/blob/main/e1.jpg"></li>
     <li><p>El encriptador convierte texto para una versión de texto encriptado y convierte texto encriptado para su versión de texto original. Además tiene una función speaker
-           que convierte texto a voz.</p></li>
-  </table>
-</div>
+        que convierte texto a voz.</p></li>
+  </div>
+
+  <div>
+    <li></li>
+    <li></li>
+    <li></li>    
+  </div>    
+</table>
