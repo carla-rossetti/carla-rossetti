@@ -6,11 +6,13 @@
 <div>
   <img src="https://img.shields.io/github/followers/carla-rossetti?label=Github%20Followers">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCjQlqSAT9UuGxoyH-y3Se4g">
-  ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
-  <a href="https://youtu.be/0FnPMIy42_4">
-    <img align="right" src="https://github.com/carla-rossetti/carla-rossetti/blob/main/arg.png">
-  </a>
-</div><br>
+</div>
+
+![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+
+<a href="https://youtu.be/0FnPMIy42_4">
+  <img align="right" src="https://github.com/carla-rossetti/carla-rossetti/blob/main/arg.png">
+</a>
 
 <div>
   <h2>Acerca de mí:</h2>
