@@ -54,7 +54,7 @@
   <h2>Mis proyectos:</h2>
   <tr>
     <td width="50%">
-      <h3 align="center">Encriptador de texto</h3><br>
+      <h3 align="center">Encriptador de texto</h3>
       <div align="center">
         <a href="https://carla-rossetti.github.io/ENCRIPTADOR-DE-TEXTO.github.io/" target="_blank">
           <img src="https://github.com/carla-rossetti/carla-rossetti/blob/main/e1.jpg" width="400">
@@ -67,8 +67,8 @@
             <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=a87bc7">
           </a>
         </p>
-        <p>El encriptador convierte texto para una versión de texto encriptado y convierte texto encriptado para su versión de texto original. Además tiene una función speaker 
-           que convierte texto a voz.
+        <p>El encriptador convierte texto para una versión de texto encriptado y convierte texto encriptado para su versión de 
+           texto original. Además tiene una función speaker que convierte texto a voz.
         </p>
       </div>
     </td>
