@@ -10,6 +10,14 @@
 
 <div>
   <h2>Acerca de mí</h2>
+  <p>
+    ⇒ 💻 It Essentials Hardware & Software
+    ⇒ 🤖 Programadora Arduino
+    ⇒ 📱 Programadora Aplicaciones Móviles (App Inventor & Android)
+    ⇒ 👩🏽‍💻 Programadora Full Stack
+    ⇒ 👩🏽‍💻 Programadora Back-end (Actualmente cursando en Alura Latam y Argentina Programa 4.0)
+    ⇒ 🗿 Impresión 3D
+  </p>
 </div>
 
 <div>
