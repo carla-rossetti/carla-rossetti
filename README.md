@@ -57,7 +57,7 @@
       <h3 align="center">Encriptador de texto</h3>
       <div align="center">
         <a href="https://carla-rossetti.github.io/ENCRIPTADOR-DE-TEXTO.github.io/" target="_blank">
-          <img src="https://github.com/carla-rossetti/carla-rossetti/blob/main/e1.jpg" width="380">
+          <img src="https://github.com/carla-rossetti/carla-rossetti/blob/main/e1.jpg" width="380" height="240">
         </a>
         <p>
           <a href="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io" target="_blank">
@@ -74,7 +74,7 @@
       <h3 align="center">Conversor de divisas</h3>
       <div align="center">
         <a href="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS" target="_blank">
-          <img src="https://github.com/carla-rossetti/carla-rossetti/blob/main/c1.jpg" width="380">
+          <img src="https://github.com/carla-rossetti/carla-rossetti/blob/main/c1.jpg" width="380" height="240">
         </a>
         <p>
           <a href="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS" target="_blank">
