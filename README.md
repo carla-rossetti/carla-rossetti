@@ -6,6 +6,11 @@
 <div>
   <img src="https://img.shields.io/github/followers/carla-rossetti?label=Github%20Followers">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCjQlqSAT9UuGxoyH-y3Se4g">
+
+  <div align="right">
+    <img src="https://github.com/carla-rossetti/carla-rossetti/blob/main/arg.png">
+  </div>
+    
 </div><br>
 
 <div>
@@ -17,7 +22,6 @@
     ⇒ 👩🏽‍💻 Programadora Full Stack<br>
     ⇒ 👩🏽‍💻 Programadora Back-end (Actualmente cursando en Alura Latam y Argentina Programa 4.0)<br>
     ⇒ 🗿 Impresión 3D<br>
-    ⇒ Made in <img src="https://github.com/carla-rossetti/carla-rossetti/blob/main/arg.png"><br>
   </p>
 </div><br>
 
