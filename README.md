@@ -54,7 +54,7 @@
   <h2>Mis proyectos:</h2>
   <tr>
     <td width="50%">
-      <h3 align="center">Encriptador de texto</h3>
+      <h3 align="center">Encriptador de texto</h3><br>
       <div align="center">
         <a href="https://carla-rossetti.github.io/ENCRIPTADOR-DE-TEXTO.github.io/" target="_blank">
           <img src="https://github.com/carla-rossetti/carla-rossetti/blob/main/e1.jpg" width="400">
