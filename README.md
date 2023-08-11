@@ -54,10 +54,10 @@
 
 <div>
   <h2>Mis proyectos:</h2>
-  <div>
-    <h4>Encriptador</h4>
-    <img src="https://github.com/carla-rossetti/carla-rossetti/blob/main/e1.jpg">
-    <p>El encriptador convierte texto para una versión de texto encriptado y convierte texto encriptado para su versión de texto original. Además tiene una función speaker que 
-       convierte texto a voz.</p>
-  </div>
+  <table>
+    <li><h4>Encriptador</h4></li>
+    <li><img src="https://github.com/carla-rossetti/carla-rossetti/blob/main/e1.jpg"></li>
+    <li><p>El encriptador convierte texto para una versión de texto encriptado y convierte texto encriptado para su versión de texto original. Además tiene una función speaker
+           que convierte texto a voz.</p></li>
+  </table>
 </div>
