@@ -56,13 +56,13 @@
     <td width="50%">
       <h3 align="center">Encriptador</h3>
       <div align="center">
-        <img src="https://github.com/carla-rossetti/carla-rossetti/blob/main/e1.jpg" width="400" height="250">
+        <img src="https://github.com/carla-rossetti/carla-rossetti/blob/main/e1.jpg" width="400">
         <p>
           <a href="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-b23272?style=for-the-badge&logo=github&logoColor=black">
+            <img src="https://img.shields.io/badge/CÓDIGO-7f4ca5?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <a href="https://youtu.be/djTCbZEh9hc" target="_blank">
-            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=b23272">
+            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=7f4ca5">
           </a>
         </p>
         <p>El encriptador convierte texto para una versión de texto encriptado y convierte texto encriptado para su versión de texto original. Además tiene una función speaker 
