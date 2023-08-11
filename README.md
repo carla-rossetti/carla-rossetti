@@ -17,7 +17,7 @@
     ⇒ 👩🏽‍💻 Programadora Full Stack<br>
     ⇒ 👩🏽‍💻 Programadora Back-end (Actualmente cursando en Alura Latam y Argentina Programa 4.0)<br>
     ⇒ 🗿 Impresión 3D<br>
-    ⇒ Made in ![image](https://github.com/carla-rossetti/carla-rossetti/assets/106676139/a53324d8-56ce-4ed3-b3e3-cc2d731f613a)<br>
+    ⇒ Made in <img src="https://github.com/carla-rossetti/carla-rossetti/blob/main/arg.png"><br>
   </p>
 </div><br>
 
