@@ -12,7 +12,7 @@
 </div><br>
 
 <div>
-  <h2>Acerca de mí</h2><br>
+  <h2>Acerca de mí</h2>
   <p>
     ⇒ 💻 It Essentials Hardware & Software<br>
     ⇒ 🤖 Programadora Arduino<br>
