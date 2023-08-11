@@ -61,10 +61,10 @@
         </a>
         <p>
           <a href="https://github.com/carla-rossetti/ENCRIPTADOR-DE-TEXTO.github.io" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-81638b?style=for-the-badge&logo=github&logoColor=black">
+            <img src="https://img.shields.io/badge/CÓDIGO-a87bc7?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <a href="https://youtu.be/djTCbZEh9hc" target="_blank">
-            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=81638b">
+            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=a87bc7">
           </a>
         </p>
         <p>El encriptador convierte texto para una versión de texto encriptado y convierte texto encriptado para su versión de texto original. Además tiene una función speaker 
