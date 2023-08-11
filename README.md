@@ -50,8 +50,8 @@
   <img src="https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white">
 </div>
 
-<h2>Mis proyectos:</h2>
 <table>
+  <h2>Mis proyectos:</h2>
   <tr>
     <td width="50%">
       <h3 align="center">Encriptador de texto</h3>
