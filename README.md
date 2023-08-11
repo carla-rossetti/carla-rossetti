@@ -53,7 +53,7 @@
 </div><br>
 
 <h2>Mis proyectos:</h2>
-<table>
+<table display="flex">
   <div>
     <li><h4>Encriptador</h4></li>
     <li><img src="https://github.com/carla-rossetti/carla-rossetti/blob/main/e1.jpg"></li>
