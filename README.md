@@ -21,7 +21,7 @@
     ⇒ 👩🏽‍💻 Programadora Back-end (Actualmente cursando en Alura Latam y Argentina Programa 4.0)<br>
     ⇒ 🗿 Impresión 3D
   </p>
-</div><br>
+</div>
 
 <div>
   <h2>Stack Tecnológico</h2>
